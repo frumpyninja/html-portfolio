@@ -1,2 +1,2 @@
 # html-portfolio
-New web developer, trying to take the knowledge one day at a time. 
+New web developer, taking in the knowledge one day at a time. 
